@@ -33,3 +33,14 @@ Cada pasta neste repositório contém um projeto ou uma série de scripts relaci
 
 O aprendizado em Unity foi fundamental para meu desenvolvimento como aspirante a desenvolvedor de jogos. Infelizmente, não consegui commitar um jogo completo neste momento devido à falta de conhecimento. Estou continuamente aprendendo e melhorando para criar e contribuir com projetos mais completos no futuro.
 
+### Equipe
+
+- Alana Vieira de Lima 
+- Ana Maria Souza da Silva 
+- Crislaine Arruda Silva 
+- Débora Moura Ferreira Santana 
+- Gabriela Gouveia Mota
+- Larissa Nataly da Silva Araujo 
+- Luciano Severo de Souza Junior
+- Matheus Levy Soares Rocha 
+- Thiago de Lyra Castro Silveira
