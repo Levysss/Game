@@ -1,6 +1,3 @@
-Claro, é normal encontrar desafios ao trabalhar com novas tecnologias. Aqui está uma versão atualizada do README, incluindo essa informação:
-
----
 
 # Aprendizado em Unity
 
