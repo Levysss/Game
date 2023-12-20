@@ -3,7 +3,7 @@
 
 ## Sobre
 
-Este repositório contém projetos e aprendizados relacionados ao desenvolvimento de jogos utilizando a engine Unity. Durante minha jornada de aprendizado, adquiri conhecimentos em várias áreas-chave:
+Este repositório contém projetos e aprendizados relacionados ao desenvolvimento de jogos utilizando a engine Unity. Durante nossa jornada de aprendizado, adquirimos conhecimentos em várias áreas-chave:
 
 ### Scripts de Movimentação de Personagem
 
