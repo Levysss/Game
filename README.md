@@ -40,7 +40,7 @@ O aprendizado em Unity foi fundamental para meu desenvolvimento como aspirante a
 - Crislaine Arruda Silva 
 - Débora Moura Ferreira Santana 
 - Gabriela Gouveia Mota
-- Larissa Nataly da Silva Araujo 
+- Larissa Nátaly da Silva Araújo 
 - Luciano Severo de Souza Junior
 - Matheus Levy Soares Rocha 
 - Thiago de Lyra Castro Silveira
